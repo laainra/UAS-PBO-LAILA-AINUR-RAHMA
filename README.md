@@ -2,7 +2,7 @@
 <h2 align="center">Laila Ainur Rahma-V3922026-TI D</h2>
 <p align="center">Saya membuat project perhitungan zakat yang mengimplementsaikan konsep Object Oriented Programming</p>
 
-    'Class dan Object': Konsep class dan object diterapkan di dalam file yang sama, yaitu dalam class-class seperti ZakatFitrah, ZakatMaal, ZakatEmas, Infak, Sedekah, dan class utama.
+- 'Class dan Object': Konsep class dan object diterapkan di dalam file yang sama, yaitu dalam class-class seperti ZakatFitrah, ZakatMaal, ZakatEmas, Infak, Sedekah, dan class utama.
 
     'Encapsulation': Konsep encapsulation diterapkan pada class-class ZakatFitrah, ZakatMaal, ZakatEmas, Infak, dan Sedekah. Properti-properti pada class tersebut dienkapsulasi dengan menggunakan modifier akses private, serta getter dan setter digunakan untuk mengakses dan mengubah nilai-nilai properti tersebut.
 
